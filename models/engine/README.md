@@ -1,4 +1,3 @@
-The AirBnB Clone Project
 
 Project Description
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
@@ -143,6 +142,6 @@ Usage	update <class name> <id> <attribute name> "<attribute value>" ---or--- <cl
 count	Retrieve the number of instances of a class.
 Usage	<class name>.count()
 Authors
-Imongu Abraham | Email: ehoneahobed
+Abraham Imongu | Email: imongua3@gmail.com
 
-Lukeman Jimoh | Github: otoobongekim
+Suleiman Jimoh | Github: otoobongekim
